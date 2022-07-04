@@ -38,8 +38,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Ramlan404/babybot.git
-cd babybot
+git clone https://github.com/INTEXSTORE/Babybot.git
+cd Babybot
 npm install
 npm start
 ```
@@ -48,8 +48,8 @@ npm start
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Ramlan404/babybot.git
-cd babybot
+git clone https://github.com/INTEXSTORE/Babybot.git
+cd Babybot
 npm install
 npm start
 ```
