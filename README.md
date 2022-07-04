@@ -5,6 +5,9 @@
 <a href="#"><img title="BABY BOT" src="https://img.shields.io/badge/BABY BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
+<a href="#"><img title="『Intexstore-Bot』" src="https://img.shields.io/badge/『Intexstore-Bot』-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
 <a href="https://github.com/Ramlan404"><img title="Author" src="https://img.shields.io/badge/Author-Ramlan ID-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
