@@ -2,7 +2,7 @@
   "name": "babybot",
   "version": "5.0.0",
   "description": "Follow instagram @iamramlan_",
-  "main": "main.js",
+  "main": "riy.js",
   "directories": {
     "lib": "lib"
   },
